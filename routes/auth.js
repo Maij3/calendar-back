@@ -28,6 +28,7 @@ router.post(
     }),
     validarCampos,
   ],
+  crearUsuario
 );
 
 router.post(
